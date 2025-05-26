@@ -1,2 +1,2 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeseOKkW&show_icons=true&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=anuraghazra&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=VeseOKkW&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
